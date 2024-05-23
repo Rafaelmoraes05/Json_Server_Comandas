@@ -77,29 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "1",
-      "nome": "Rafa",
-      "carne": "Maminha",
-      "pao": "",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "solicitado"
-    },
-    {
-      "id": "2",
-      "nome": "Dudu",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Pepino",
-        "Tomate"
-      ],
-      "status": "Em produção"
-    }
-  ]
+  "burgers": []
 }
